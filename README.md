@@ -1,8 +1,8 @@
 ## 👨‍💻 Sobre mim
 Desenvolver softwares é o trabalho dos meus sonhos. Possuo razoável conhecimento em `C#`, porém 
-nunca tive oportunidades de trabalhar na área que mais amo. De encontro com a falta de experiência, 
+nunca tive oportunidades de trabalhar na área que mais amo. De encontro com a falta de experiência profissional, 
 tenho como principal qualidade a facilidade em aprender, bem como vontade de adquirir 
-conhecimento
+conhecimento.
 
   
 ## 🛠 Skills
