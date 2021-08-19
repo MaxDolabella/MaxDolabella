@@ -1,16 +1,30 @@
-### Hi there 👋
+## 👨‍💻 Sobre mim
+Desenvolver softwares é o trabalho dos meus sonhos. Possuo razoável conhecimento em `C#`, porém 
+nunca tive oportunidades de trabalhar na área que mais amo. De encontro com a falta de experiência, 
+tenho como principal qualidade a facilidade em aprender, bem como vontade de adquirir 
+conhecimento
 
-<!--
-**MaxDolabella/MaxDolabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+## 🛠 Skills
+- C#
+  - Windows Forms | WPF | ASP.NET MVC
+  - ADO.NET
+  - Entity Framework (CodeFirst, FluentAPI)
 
-Here are some ideas to get you started:
+- Outras habilidades
+  - HTML + CSS + JS
+  - SQL Server; 
+  - MS Excel | VBA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Outros Conhecimentos
+  - Abordagem DDD
+  - IoC/DI
+  - Clean Code
+
+
+
+## 📧 Contato
+
+Para entrar em contato comigo, envie um e-mail para maxsystech@outlook.com.
+
+  
