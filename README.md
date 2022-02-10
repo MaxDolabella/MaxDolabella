@@ -1,10 +1,8 @@
 ## 👨‍💻 Sobre mim
 Olá, sou Max Dolabella, natural do estado do Rio de Janeiro.
 
-Desenvolver softwares é o trabalho dos meus sonhos. Possuo razoável conhecimento em `C#`, porém 
-nunca tive oportunidades de trabalhar na área que mais amo. De encontro com a falta de experiência profissional, 
-tenho como principal qualidade a facilidade em aprender, bem como vontade de adquirir 
-conhecimento.
+Desenvolver softwares é o trabalho dos meus sonhos. Possuo razoável conhecimento em `C#`. Estou cheio de energia à procura de oportunidades como Dev jr ou trainee
+Tenho como principal qualidade a facilidade em aprender, bem como vontade de adquirir conhecimento.
 
   
 ## 🛠 Skills
