@@ -1,13 +1,14 @@
 ## 👨‍💻 Sobre mim
 Olá, sou Max Dolabella, natural do estado do Rio de Janeiro.
+Atuo como Técnico de Software na Headsoft, uma empresa de software voltado para comércio exterior.
 
-Desenvolver softwares é o trabalho dos meus sonhos. Possuo razoável conhecimento em `C#`. Estou cheio de energia à procura de oportunidades como Dev jr ou trainee.
+Desenvolver softwares é o trabalho dos meus sonhos. Possuo razoável conhecimento em `C#`.
 Tenho como principal qualidade a facilidade em aprender, bem como vontade de adquirir conhecimento.
 
   
 ## 🛠 Skills
 - C#
-  - Windows Forms | WPF | ASP.NET MVC
+  - Windows Forms | WPF | ASP.NET MVC | WebAPI
   - ADO.NET
   - Entity Framework (CodeFirst, FluentAPI)
 
