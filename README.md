@@ -1,5 +1,5 @@
 ## 👨‍💻 Sobre mim
-Olá, sou Max Dolabella, natural do estado do Rio de Janeiro.
+Olá, sou Max Dolabella, natural do estado do Rio de Janeiro e VASCAÍNO!!
 Atuo como Técnico de Software na Headsoft, uma empresa de software voltado para comércio exterior.
 
 Desenvolver softwares é o trabalho dos meus sonhos. Possuo razoável conhecimento em `C#`.
