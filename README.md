@@ -6,10 +6,6 @@
 ## 👨‍💻 Sobre mim
 Olá, sou Max Dolabella, natural do estado do Rio de Janeiro e VASCAÍNO!!
 Atuo como Programador Jr (back end) na Headsoft, uma empresa de software voltado para comércio exterior.
-
-Desenvolver softwares é o trabalho dos meus sonhos. Possuo razoável conhecimento em `C#`.
-Tenho como principal qualidade a facilidade em aprender, bem como vontade de adquirir conhecimento.
-
   
 ## 🛠 Skills
 - C#
