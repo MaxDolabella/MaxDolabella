@@ -1,3 +1,8 @@
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxDolabella&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDolabella&layout=compact&langs_count=6&theme=algolia"/>
+</div>
+
 ## 👨‍💻 Sobre mim
 Olá, sou Max Dolabella, natural do estado do Rio de Janeiro e VASCAÍNO!!
 Atuo como Programador Jr (back end) na Headsoft, uma empresa de software voltado para comércio exterior.
